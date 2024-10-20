@@ -1,2 +1,6 @@
 # ProjetoSprites2D
- Aplicação de conhecimentos para animação 2D de sprites, manipulação de cenas , sistemas de partículas e colisões básicas
+ Aplicação de conhecimentos para animação 2D:
+ - Animação de sprites;
+ - Manipulação de cenas;
+ - Sistemas de partículas;
+ - Colisões Básicas
